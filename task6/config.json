@@ -1,0 +1,10 @@
+{
+    "repertoires_a_sauvegarder": [
+      "C:/Users/Moi/Documents/important",
+      "D:/Photos"
+    ],
+    "dossier_de_sauvegarde": "D:/Sauvegardes",
+    "nombre_max_sauvegardes": 3,
+    "fichier_log": "sauvegarde.log"
+  }
+  
